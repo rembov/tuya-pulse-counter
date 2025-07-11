@@ -43,7 +43,7 @@ tuya-pulse-counter/
 
 * Arduino IDE (>= 1.8.13)
 * Плата ESP8266 через Board Manager
-* Библиотека [TuyaWifi](https://github.com/tuya/tuya-wifi-arduino)
+* Библиотека [TuyaWifi](https://github.com/tuya/tuya-wifi-mcu-sdk-arduino-library)
 
 ---
 
